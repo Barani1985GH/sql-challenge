@@ -16,7 +16,8 @@ This code will show the research result about people whom the company employed d
     List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 HOW TO RUN THE PROJECT:
-1. Import schema.sql to create all the needed tables
-2. Import CSV into the respective tables
-3. Import quereis.sql and run the queries to see the result
+1. Create a database SQL_Challenge
+2. Import schema.sql to the database, which will create all the needed tables
+3. Import CSV into the respective tables using import/export options in postgre / pgadmin
+3. Import queries.sql and run the queries to see the result
 4. To view ERD for this challenge , check out ERD.png file
