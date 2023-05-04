@@ -56,5 +56,4 @@ select * from dept_emp;
 select * from dept_manager;
 select * from salaries;
 
-SELECT first_name, last_name, hire_date FROM employees 
-WHERE hire_date >= TO_DATE('1986-01-01' ,'YYYY mm dd') AND hire_date < TO_DATE('1987-01-01' ,'YYYY mm dd');
+
