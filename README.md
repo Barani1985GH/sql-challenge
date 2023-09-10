@@ -20,4 +20,4 @@ HOW TO RUN THE PROJECT:
 2. Import schema.sql to the database, which will create all the needed tables
 3. Import CSV into the respective tables using import/export options in postgre / pgadmin
 3. Import queries.sql and run the queries to see the result
-4. To view ERD for this challenge , check out ERD.png file
+4. To view ERD for this challenge , check out ERD.png file in EmployeeSQL folder
